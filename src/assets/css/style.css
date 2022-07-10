@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;500&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300&display=swap");
+body {
+  background: #dedede;
+  /* font-family: "Edu TAS Beginner", cursive; */
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+}
